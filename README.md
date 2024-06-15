@@ -1,7 +1,7 @@
-listContacts: https://prnt.sc/Zn3f1ZInkKtd
+listContacts: https://prnt.sc/0fe-U6887AxV
 
-getContactById: https://prnt.sc/BlUD1AIDnVE8
+getContactById: https://prnt.sc/rE6mLnTkVRXF
 
-addContact : https://prnt.sc/86pzBuPzM0-6
+addContact : https://prnt.sc/XyhQ2qN_Q7lv
 
-removeContact: https://prnt.sc/jN_TnJwNyrFr
+removeContact: https://prnt.sc/NEzdUWdLmM9Y
